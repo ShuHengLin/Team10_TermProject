@@ -19,3 +19,4 @@ python -B draw_stereoBM.py
 1) [High Quality Monocular Depth Estimation via Transfer Learning](https://arxiv.org/abs/1812.11941)
 2) [DenseDepth](https://github.com/ialhashim/DenseDepth)
 3) [Depth Map from Stereo Images](https://docs.opencv.org/3.4/dd/d53/tutorial_py_depthmap.html)
+4) [How to acquire depth map from stereo - KITTI dataset](https://stackoverflow.com/questions/52702847/how-to-acquire-depth-map-from-stereo-kitti-dataset)
